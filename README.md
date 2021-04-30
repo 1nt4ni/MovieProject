@@ -20,9 +20,9 @@ menambahkan parameter serta mengirim data berupa image ke server.
 # Yang digunakan dalam rest API
   * GET, berfungsi untuk membaca data/resource dari REST server
   * POST, berfungsi untuk membuat sebuah data/resource baru di REST server
-- [x] PUT, berfungsi untuk memperbaharui data/resource di REST server
-- [x] DELETE, berfungsi untuk menghapus data/resource dari REST serve
-- [x] OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server
+  * PUT, berfungsi untuk memperbaharui data/resource di REST server
+  * DELETE, berfungsi untuk menghapus data/resource dari REST serveR
+  * OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server
 
 # HASIL
 ![movie1](https://github.com/1nt4ni/MovieProject/blob/master/Screenshot%20(660).png)
